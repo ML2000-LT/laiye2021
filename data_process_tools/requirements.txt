@@ -1,0 +1,7 @@
+numpy==1.18.1
+requests==2.25.1
+opencv_python==4.2.0.34
+Shapely==1.7.1
+thean_tools==0.0.15
+Pillow==8.2.0
+python_Levenshtein==0.12.2
